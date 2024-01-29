@@ -1,0 +1,10 @@
+alligator
+squirrel
+eagle
+donkey
+monkey
+crocodile
+chimpanzee
+penguin
+buffalo
+octopus
